@@ -114,19 +114,6 @@ Requirements:
 
 ---
 
-# 5. Footer Section
-
-At the bottom of the page:
-
-- Add a horizontal line using the appropriate HTML tag.
-- Add a paragraph containing:
-
-```text
-Created by [Your Name]
-```
-
----
-
 # Mandatory Requirements
 
 Your webpage must include:
@@ -158,7 +145,6 @@ Add any of the following:
 - A second image
 - Another external link
 - Different heading levels (`h1`, `h2`, `h3`)
-- Inline styling for colors or background
 
 ---
 
