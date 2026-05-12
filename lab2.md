@@ -1,4 +1,4 @@
-# HTML Fundamentals Practical Task
+# HTML Fundamentals Lab 2
 
 ## Task Title
 Create a Student Portfolio Webpage

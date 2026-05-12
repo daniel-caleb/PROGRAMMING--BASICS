@@ -1,4 +1,4 @@
-# HTML Basics Practical Task
+# HTML Basics Lab 1
 
 ## Task Title
 Create a Simple Personal Profile Webpage
