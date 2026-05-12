@@ -1,172 +1,49 @@
-# HTML Basics Practical Task
+# Labs Included
 
-## Task Title
-Create a Simple Personal Profile Webpage
+## Lab 1 — HTML Fundamentals
 
----
+This lab introduces the foundational concepts of HTML.
 
-# Objective
+### Topics Covered
 
-The purpose of this practical task is to test your understanding of basic HTML concepts including:
-
+- HTML document structure
 - Headings
 - Paragraphs
+- Horizontal lines
+- Line breaks
 - Links
 - Images
 
----
+### Skills Practiced
 
-# Task Instructions
+- Creating a simple webpage
+- Linking between pages
+- Adding images to webpages
+- Structuring webpage content
 
-Create a webpage called:
-
-```bash
-index.html
-```
-
-Your webpage should contain the following sections:
+➡️ [Open Lab 1](lab1.md)
 
 ---
 
-# 1. Main Heading
+## Lab 2 — HTML Elements and Page Structuring
 
-Add a main heading displaying:
+This lab focuses on organizing and structuring webpage content using additional HTML elements.
 
-```text
-Welcome to My Profile Page
-```
+### Topics Covered
 
-Use the correct HTML heading tag.
+- Ordered lists
+- Unordered lists
+- Tables
+- Forms
+- Input fields
+- Buttons
+- Semantic elements
 
----
+### Skills Practiced
 
-# 2. About Me Section
+- Creating structured content
+- Collecting user input using forms
+- Displaying data in tables
+- Organizing webpages semantically
 
-Create a subheading titled:
-
-```text
-About Me
-```
-
-Below the heading, add a paragraph about yourself that includes:
-
-- Your name
-- Your course/program
-- Your hobbies or interests
-
-Requirements:
-
-- The paragraph should contain at least 4 sentences.
-
----
-
-# 3. Favorite Website Section
-
-Create another subheading titled:
-
-```text
-My Favorite Website
-```
-
-Below it:
-
-- Add a paragraph explaining why you like the website.
-- Add a clickable link to the website.
-- The link must open in a new tab.
-
-Examples of websites:
-
-- YouTube
-- Wikipedia
-- GitHub
-- AWS
-- Any educational website
-
----
-
-# 4. Image Section
-
-Create another subheading titled:
-
-```text
-My Favorite Image
-```
-
-Below it:
-
-- Insert an image using the `<img>` tag.
-
-The image can be anything appropriate such as:
-
-- Nature
-- Technology
-- Animals
-- Cars
-- Sports
-
-Requirements:
-
-- Include:
-  - `src`
-  - `alt`
-  - `width`
-  - `height`
-
----
-
-# Mandatory Requirements
-
-Your webpage must include:
-
-- Proper HTML document structure:
-  - `<!DOCTYPE html>`
-  - `<html>`
-  - `<head>`
-  - `<body>`
-
-- At least:
-  - 3 headings
-  - 3 paragraphs
-  - 1 image
-  - 1 clickable link
-
-- Save the file as:
-
-```bash
-index.html
-```
-
----
-
-# Bonus Challenge (Optional)
-
-Add any of the following:
-
-- A second image
-- Another external link
-- Different heading levels (`h1`, `h2`, `h3`)
-
----
-
-# Submission Instructions
-
-Submit:
-
-- `index.html`
-
-Ensure the webpage opens correctly in a browser before submission.
-
----
-
----
-
-# Expected Learning Outcomes
-
-By completing this task, students should be able to:
-
-- Create a basic HTML webpage
-- Use headings correctly
-- Add paragraphs
-- Insert hyperlinks
-- Display images
-- Structure a simple webpage properly
+➡️ [Open Lab 2](lab2.md)
