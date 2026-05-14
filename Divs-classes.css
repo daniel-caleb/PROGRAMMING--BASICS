@@ -1,0 +1,49 @@
+body{
+    /* background-image: url(africa.webp); */
+    background-repeat: no-repeat;
+}
+
+.heading{
+    font-size: 40px;
+    border-style: solid;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.heading h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 20px;
+    padding-right: 30px;
+    padding-left: 350px;
+}
+
+h1{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+
+    color: blue;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sub-main{
+    display: flex;
+}
+
+.kenya{
+    background-color: rgb(26, 161, 161);
+    font-size: larger;
+    font-style: oblique;
+    align-content: center;
+}
+
+.tanzania{
+    background-color: chocolate;
+}
+
+.uganda{
+    background-color: blueviolet;
+}

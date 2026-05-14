@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAVASCRIPT BASICS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #555;
+            font-size: 30px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+            ul {
+                list-style-type: square;
+            }
+            li {
+                margin-bottom: 10px;
+            }
+        
+    </style>
+</head>
+<body>
+    <h1>JAVASCRIPT BASICS</h1>
+    <h2>1. Variables and Data Types</h2>
+    <p>In JavaScript, you can declare variables using <code>var</code>, <code>let</code>, or <code>const</code>. JavaScript supports various data types including:</p>
+    <ul>
+        <li><strong>String:</strong> A sequence of characters, e.g., <code>"Hello, World!"</code>.</li>
+        <li><strong>Number:</strong> Represents both integer and floating-point numbers, e.g., <code>42</code> or <code>3.14</code>.</li>
+        <li><strong>Boolean:</strong> Represents logical values, either <code>true</code> or <code>false</code>.</li>
+        <li><strong>Object:</strong> A collection of key-value pairs, e.g., <code>{ name: "Alice", age: 30 }</code>.</li>
+        <li><strong>Array:</strong> An ordered list of values, e.g., <code>[1, 2, 3]</code>.</li>
+        <li><strong>Null:</strong> Represents the intentional absence of any object value.</li>
+        <li><strong>Undefined:</strong> Indicates that a variable has not been assigned a value.</li>
+    </ul>
+    <h2>2. Functions</h2>
+    <p>Functions are reusable blocks of code that perform a specific task. You can define a function using the <code>function</code> keyword or as an arrow function. For example:</p>
+    <pre>
+        <code>// Function declaration
+            function greet(name) {
+                return "Hello, " + name + "!";
+            }   
+        // Arrow function
+            const greet = (name) => {
+                return "Hello, " + name + "!";
+            };
+        // Using the function
+            console.log(greet("Alice")); // Output: Hello, Alice!
+        </code>
+    </pre>
+    <h2>3. Control Structures</h2>
+    <p>JavaScript provides various control structures to manage the flow of your code:</p   >
+    <ul>
+        <li><strong>If-else statements:</strong> Used for conditional execution of code blocks.</li>
+        <li><strong>Switch statements:</strong> Used for multiple conditions based on a single expression.</li>
+        <li><strong>Loops:</strong> Used to execute a block of code repeatedly. Common loops include <code>for</code>, <code>while</code>, and <code>do-while</code>.</li>
+    </ul>
+    <h2>4. Events</h2>
+    <p>Events are actions that occur in the browser, such as clicks, mouse movements, or keyboard input. You can handle events using event listeners. For example:</p>
+    <pre>
+        <code>// Adding an event listener to a button
+            const button = document.getElementById("myButton");
+            button.addEventListener("click", () => {
+                alert("Button was clicked!");
+            });
+        </code>
+    </pre>
+
+</body>
+</html>
