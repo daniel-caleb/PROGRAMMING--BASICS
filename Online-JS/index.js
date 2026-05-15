@@ -84,3 +84,5 @@ let fullName = firstName + " " + lastName; // This is a variable declaration and
 console.log(firstName)
 console.log(lastName)
 console.log(fullName) // This will output the value of the variable 'fullName' to the console, which is "Jane Doe".
+
+//
