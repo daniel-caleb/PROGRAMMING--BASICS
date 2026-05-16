@@ -22,3 +22,12 @@ function calculateFare(distance, rate) {
 // Function Call
 let fare = calculateFare(10, 2.5);
 console.log("Total Fare: Kshs." + fare); // This will output the string "Total Fare: Kshs.25" to the console.
+
+let var1 = 'This is a string';
+
+function test() {
+    let var2 = 'This is another string';
+    console.log(var1); // This will output the string "This is a string" to the console, demonstrating that var1 is accessible within the function.
+    console.log(var2); // This will output the string "This is another string" to the console, demonstrating that var2 is accessible within the function.
+}
+test(); // This will execute the 'test' function and display the values of var1 and var2 in the console.
